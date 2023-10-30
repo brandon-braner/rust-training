@@ -22,3 +22,5 @@ Cargo.lock
 # ignore subdirectories for rust artifacts
 
 hello/target
+
+.idea/*
