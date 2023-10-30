@@ -18,3 +18,21 @@ tree
 └── README.md
 
 ```
+
+## Local
+
+### ASDF
+Install Rust via asdf
+
+- Install asdf https://asdf-vm.com/
+- Install Rust 
+  - https://github.com/asdf-community/asdf-rust
+  - `asdf install rust latest` or 
+  - list all the version `asdf list-all rust` then
+  - `asdf install rust <version>`
+
+### Look into RUSTUP
+Look into Rustup https://rustup.rs/
+
+# Make a new project
+- Run `cargo new project_name`
